@@ -1,0 +1,16 @@
+# Ignore environment files
+.env
+
+# Ignore system and IDE junk
+.vscode/
+node_modules/
+.DS_Store
+*.log
+*.tmp
+Thumbs.db
+fastapi_env/
+venv/
+myenv/
+checkpoints/
+yagna/
+golem/
