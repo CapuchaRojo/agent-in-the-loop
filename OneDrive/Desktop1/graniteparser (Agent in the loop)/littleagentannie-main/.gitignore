@@ -1,0 +1,19 @@
+# Ignore environment & secrets
+.env
+*.pem
+*.crt
+*.key
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system & user-specific files
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+venv/
+.idea/
+.vscode/
